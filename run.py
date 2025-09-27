@@ -1,2 +1,2 @@
-from pagereg import aprov
+from page import aprov
 aprov()
